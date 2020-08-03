@@ -1,7 +1,7 @@
 # Miquel's time line
 ## Achievements
 - **Publication at ICIN2020 conference** as a co-author and main developer of "Enhancing the performance of 5G slicing operations via multi-tier orchestration". [Find out more](#muti-tier-orchestrator).
-- **University Subsidized** by a project build from scratch with a group of 3 colleagues. [Find out more](#-chanchus).
+- **University Subsidized** by a project build from scratch with a group of 3 colleagues. [Find out more](#chanchus).
 - **Telecommunications Engineer** graduated at Universitat Politecnica de Catalunya and Thesis developed in collaboration with Lund University.
 - **Top 3 Award at MLH** Oxford Hackathon. Find out more at Project's repo [here](https://github.com/miquelpuigmena/FairFlight).
 - Proud of **Blockchain based solution for GDPR - Anti Terrorism law ambiguity**.
@@ -41,7 +41,7 @@
     - TypeScript
 
 ### Free-lancer
- - [Chanchus](#-chanchus) (1.5 years)
+ - [Chanchus](#chanchus) (1.5 years)
     - Python 
     - WebScraping
     - Natural Language Processing
