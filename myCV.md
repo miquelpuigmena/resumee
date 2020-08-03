@@ -15,9 +15,9 @@
 
 ## Projects worked on
 ### Job Projects
- - [Acoustic Calculator](#acoustic-calculator) at Lunicore
+ - [Acoustic Calculator](#acoustic-calculator) at Lunicore (0.5 years)
     - Python
- - [Multi Tier Orchestrator](#muti-tier-orchestrator) at I2Cat
+ - [Multi Tier Orchestrator](#muti-tier-orchestrator) (MTO) at I2Cat (1.5 years)
     - Python
     - Java
     - MongoDB
@@ -41,20 +41,20 @@
     - TypeScript
 
 ### Free-lancer
- - **Chanchus**(#-chanchus)
+ - [Chanchus](#-chanchus) (1.5 years)
     - Python 
     - WebScraping
     - Natural Language Processing
 
-### Projects
-#### Muti Tier Orchestrator (MTO) (1.5 years)
+### Project Description
+#### Muti Tier Orchestrator
 **Reduce Latency and CPU usage** of 5G inner components. Research and development project finished both with an implementation as a proof of concept and a research article presented at ICIN2020 conference (find [published article](https://ieeexplore.ieee.org/document/9059546) at IEEE biblioteca).
 Module developed in Python backed with a MongoDB. API Service inside MTO ready to integrate with clients. API Client definition both in Java and Python.
 
-#### Acoustic Calculator (0.5 years)
+#### Acoustic Calculator 
 Software development of **sound propagation within an enclosed space**. Several technical issues tackled together with acoustic engineers in order to define an accurate model. Integration of module with 3D renderisation company in order to have a more visual ouptut.
 
-#### Chanchus (1.5 years)
+#### Chanchus 
 WebScraper that would trigger alarm when finding profitable operations with online sport betting. Main objective was to **subsidize university** and get started with non-academic development of software.
 
 
