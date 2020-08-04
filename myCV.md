@@ -1,4 +1,5 @@
 # Miquel's time line
+Find my [CV](https://github.com/miquelpuigmena/resumee/blob/master/CV_compressed.pdf).
 ## Achievements
 - **Publication at ICIN2020 conference** as a co-author and main developer of "Enhancing the performance of 5G slicing operations via multi-tier orchestration". [Find out more](#muti-tier-orchestrator).
 - **University Subsidized** by a project build from scratch with a group of 3 colleagues. [Find out more](#chanchus).
