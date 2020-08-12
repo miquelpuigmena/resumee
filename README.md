@@ -1,6 +1,10 @@
 # MySelf Repository
-## CV
-CV Included .pdf, .md formats
+This Repository includes several descriptions of my technicals doings.
 
-## Cover letter 
-Included a generic .pdf cover letter
+Among them find:
+- [CV.NormalCompressed](./CV_compressed.pdf)
+- [AboutMe](./AboutMeRuby.pdf)
+- [My timeline](./myCV.md)
+- [CV v.Normal](./CV.pdf)
+- [CV v.PhotoRounded](./CV_rounded.pdf)
+
