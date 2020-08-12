@@ -8,11 +8,12 @@ Find my [CV](https://github.com/miquelpuigmena/resumee/blob/master/CV_compressed
 - Proud of **Blockchain based solution for GDPR - Anti Terrorism law ambiguity**.
 
 ## Education
-| University                           | Degree                      | Graduation Date | Country |
-|--------------------------------------|-----------------------------|-----------------|---------|
-| Universitat Politècnica de Catalunya | Telecommunications Engineer | Feb 2020        | Spain   |
-| Lunds Universitet                    | Degree Thesis               | Feb 2020        | Sweden  |
-| NeCS Cyber Security                  | PhD Winter School           | Feb 2019        | Italy   |
+| University                           | Degree                       | Graduation Date | Country |
+|--------------------------------------|------------------------------|-----------------|---------|
+| Universitat Politècnica de Catalunya | Telecommunications Engineer  | Feb 2020        | Spain   |
+| Lunds Universitet                    | Degree Thesis                | Feb 2020        | Sweden  |
+| Universitat Politècnica de Catalunya | Introduction to DeepLearning | Jan 2019        | Spain   |
+| NeCS Cyber Security                  | PhD Winter School            | Feb 2019        | Italy   |
 
 ## Projects worked on
 ### Job Projects
@@ -46,6 +47,12 @@ Find my [CV](https://github.com/miquelpuigmena/resumee/blob/master/CV_compressed
     - Python 
     - WebScraping
     - Natural Language Processing
+    
+### Academic Projects
+ - **ESP32 beacon sninffer**(#esp32-sniffer) (0.5 years)
+  - C
+  - Embedded Softwar
+
 
 ### Project Description
 #### Muti Tier Orchestrator
@@ -57,5 +64,8 @@ Software development of **sound propagation within an enclosed space**. Several 
 
 #### Chanchus 
 WebScraper that would trigger alarm when finding profitable operations with online sport betting. Main objective was to **subsidize university** and get started with non-academic development of software.
+
+#### ESP32 Sniffer
+Beacon Synch project implements on ESP32 board a beacon Sniffer that updates an internal timer on tick scale. Each beacon sniffed is decoupled on ieee80211 structs. Find Github project repo [here](https://github.com/miquelpuigmena/ESP32sniffer).
 
 
