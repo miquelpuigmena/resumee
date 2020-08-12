@@ -49,7 +49,7 @@ Find my [CV](https://github.com/miquelpuigmena/resumee/blob/master/CV_compressed
     - Natural Language Processing
     
 ### Academic Projects
- - **ESP32 beacon sninffer**(#esp32-sniffer) (0.5 years)
+ - [ESP32 beacon sninffer](#esp32-sniffer) (0.5 years)
   - C
   - Embedded Softwar
 
