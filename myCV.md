@@ -14,6 +14,8 @@ Find my [CV](https://github.com/miquelpuigmena/resumee/blob/master/CV_compressed
 | Lunds Universitet                    | Degree Thesis                | Feb 2020        | Sweden  |
 | Universitat Politècnica de Catalunya | Introduction to DeepLearning | Jan 2019        | Spain   |
 | NeCS Cyber Security                  | PhD Winter School            | Feb 2019        | Italy   |
+| Udemy                                | DevOps Pipeline AWS - K8     | Jul 2020        | Remote  |
+| Udemy                                | Network penetration          | Mar 2020        | Remote  |
 
 ## Projects worked on
 ### Job Projects
