@@ -45,6 +45,11 @@ Find my [CV](https://github.com/miquelpuigmena/resumee/blob/master/CV_compressed
     - TypeScript
 
 ### Free-lancer
+ - mybillard.club (private repo!)
+    - Typescript
+    - React Web and Native monorepo
+    - Golang
+    - Containerization and orchestration of micro-services
  - [Chanchus](#chanchus) (1.5 years)
     - Python 
     - WebScraping
