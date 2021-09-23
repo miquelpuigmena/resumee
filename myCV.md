@@ -19,6 +19,7 @@ Find my [CV](https://github.com/miquelpuigmena/resumee/blob/master/CV_compressed
 
 ## Projects worked on
 ### Job Projects
+ - [Graduate Program](#graduate-program) at Nuuday (1 year)
  - [Acoustic Calculator](#acoustic-calculator) at Lunicore (0.5 years)
     - Python
  - [Multi Tier Orchestrator](#muti-tier-orchestrator) (MTO) at I2Cat (1.5 years)
@@ -75,4 +76,5 @@ WebScraper that would trigger alarm when finding profitable operations with onli
 #### ESP32 Sniffer
 Beacon Synch project implements on ESP32 board a beacon Sniffer that updates an internal timer on tick scale. Each beacon sniffed is decoupled on ieee80211 structs. Find Github project repo [here](https://github.com/miquelpuigmena/ESP32sniffer).
 
-
+#### Graduate program
+Joined Nuuday's graduate program. Implementing microservices written in Java hosted on AWS Kubernetes (EKS) and deployed with Terraform.
